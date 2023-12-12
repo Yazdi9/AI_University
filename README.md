@@ -1,1 +1,1 @@
-# AI_School
+# AI_University
