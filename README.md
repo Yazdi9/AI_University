@@ -10,7 +10,7 @@
 
 |Subject|Name|CODE|
 |---|---|---|
-|CNN|Introduction_to_CNNs.ipynb|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://github.com/google-research/bert) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
-|CNN|Modern_Convnets.ipynb|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://github.com/pku-yuangroup/chatlaw)|
-|CNN|Facial_recognition_using_modern_convnets.ipynb|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://github.com/openai/evals)|
+|CNN|Introduction_to_CNNs.ipynb|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sabahesaraki/introduction-to-cnns) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
+|CNN|Modern_Convnets.ipynb|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sabahesaraki/convnets) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
+|CNN|Facial_recognition_using_modern_convnets.ipynb|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sabahesaraki/facial-recognition-with-convnets) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
 
