@@ -17,6 +17,10 @@
 |GAN|Diffusion Models|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sabahesaraki/diffusion-models) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saba99/AI_University/blob/master/Deep%20learning/NeuroMatch/GAN/Diffusion_models.ipynb)|
 |GAN|CycleGAN|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sabahesaraki/facial-recognition-with-convnets) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
 |Unsupervised And Self Supervised|Introduction|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sabahesaraki/facial-recognition-with-convnets) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
+|Optimization|Optimization_techniques|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sabahesaraki/facial-recognition-with-convnets) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
+|Regularization|Regularization_techniques_part_1|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sabahesaraki/facial-recognition-with-convnets) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
+|Regularization|Regularization_techniques_part_2|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sabahesaraki/facial-recognition-with-convnets) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
+
 
 
 ## ✨NLP
